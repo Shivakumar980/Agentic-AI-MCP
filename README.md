@@ -119,7 +119,6 @@ langgraph-mcp/
 └── servers/                 # Directory containing MCP servers
     ├── tavily.py            # Web search server
     ├── yt_transcript.py     # YouTube transcript server
-    ├── math.py              # Math operations server
     ├── weather.py           # Weather information server
     └── database.py          # SQLite database server
 ```
